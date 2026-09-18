@@ -5,7 +5,7 @@
 I'm a second-year CSBS student at BVCOEP, Pune.  
 
 > Currently working with web dev, AI/ML and a whole lot of problem solving in DSA
-> I love cupcakes
+
 ---
 
 ## 👨‍💻 What I'm Doing
