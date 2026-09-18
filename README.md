@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CSBS+Student+at+BVCOEP;Building+Projects;Learning+Fundamentals;Improving+Every+Day&center=true&width=500&height=40)
 
-I'm a first-year CSBS student at BVCOEP, Pune.  
-Currently working with C, Python, and Web Development.
-
+I'm a second-year CSBS student at BVCOEP, Pune.  
+Currently working with web dev, AI/ML and a whole lot of problem solving in DSA
+I love cupcakes
 ---
 
 ## 👨‍💻 What I'm Doing
@@ -41,7 +41,9 @@ Currently working with C, Python, and Web Development.
 ---
 
 ## 📂 Projects
-- LOCKEDIN Productivity Platform (Hackathon project)  
+- LOCKEDIN Productivity Platform (Hackathon project)
+- CrisisSync, A hospitality management system
+- Veriderix - Advanced student portal
 - A Python Repository (not public yet)
 
 ---
