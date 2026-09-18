@@ -3,8 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=CSBS+Student+at+BVCOEP;Building+Projects;Learning+Fundamentals;Improving+Every+Day&center=true&width=500&height=40)
 
 I'm a second-year CSBS student at BVCOEP, Pune.  
-Currently working with web dev, AI/ML and a whole lot of problem solving in DSA
-I love cupcakes
+
+> Currently working with web dev, AI/ML and a whole lot of problem solving in DSA
+> I love cupcakes
 ---
 
 ## 👨‍💻 What I'm Doing
